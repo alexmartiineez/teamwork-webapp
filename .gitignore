@@ -1,2 +1,4 @@
 #Descartando imagenes
-src/images/*
+*.jpg
+*.jpeg
+*.png
